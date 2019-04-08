@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Simple multiline ellipsis component for React.js",
   "main": "dist/index.js",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/snowleoz/react-ellipsis-with-css.git"
+  },
   "scripts": {
     "winbuild": "set NODE_ENV=production&&webpack",
     "winserver": "set NODE_ENV=development&&webpack-dev-server",
